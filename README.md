@@ -88,6 +88,9 @@ https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
 El conjunto de datos contiene muestras de vino donde se recogen los valores de diferentes variables fisicoquimicas.
 
+## Video
+El video se ha alojado en el siguiente enlace:
+
 
 ## Recursos
 Calvo M., Subirats L., Pérez D. (2019). Introducción a la limpieza y análisis de los datos. Editorial UOC.
