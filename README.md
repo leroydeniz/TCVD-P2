@@ -22,7 +22,7 @@ Universitat Oberta de Catalunya <br/>
 ## Descripción
 Con esta práctica se pretende aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación 
 y análisis de las mismas sobre el conjunto de datos Red Wine Quality.
-La práctica se realiza mediante la utilización del software libre, [Jupyter](https://jupyter.org/), el cual facilita el desarrollo interactivo basado en la web para cuadernos, código y datos
+La práctica se realiza mediante la utilización del software libre, [Jupyter Notebook](https://jupyter.org/), el cual facilita el desarrollo interactivo basado en la web para cuadernos, código y datos
 
 ## Miembros del equipo
 El equipo esta integrado por: 
