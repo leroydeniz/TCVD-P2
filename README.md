@@ -21,7 +21,8 @@ Universitat Oberta de Catalunya <br/>
 
 ## Descripción
 Con esta práctica se pretende aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación 
-y análisis de las mismas sobre el conjunto de datos Red Wine Quality (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+y análisis de las mismas sobre el conjunto de datos Red Wine Quality (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
+El conjunto de datos contiene muestras de vino donde se recogen los valores de diferentes variables fisicoquimicas.
 
 ## Miembros del equipo
 El equipo esta integrado por: 
@@ -30,12 +31,8 @@ El equipo esta integrado por:
 
 ## Ficheros del código fuente
 El proyecto se estructura de la siguiente manera: <br/>
-* **TCVD-P1/:** Raíz del proyecto <br/>
-* **TCVD-P1/img/:** Directorio donde se almacenan las imágenes obtenidas por scraping de cada uno de los proyectos, si la contienen <br/>
-* **TCVD-P1/output/:** Directorio donde se almacena el resultado final del proyecto <br/>
-* **TCVD-P1/output/paies.csv:** Fichero resultante .csv que contiene toda la información de los proyectos obtenida por scraping<br/>
-* **TCVD-P1/app.py:** Contiene las intrucciones necesarias para la recolección de datos <br/>
-* **TCVD-P1/utils.py:** Contiene las funciones reiterativas necesarias y accesibles desde app.py
+* **TCVD-P2/:** Raíz del proyecto <br/>
+* **TCVD-P2/datasets/:** Directorio donde esta almacenado el conjunto de datos con el que se realizara la practica <br/>
 
 ## Librerias
 El script hace uso de las siguientes librerias:
