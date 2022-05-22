@@ -23,8 +23,6 @@ Universitat Oberta de Catalunya <br/>
 Con esta práctica se pretende aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación 
 y análisis de las mismas sobre el conjunto de datos Red Wine Quality
 
-El conjunto de datos contiene muestras de vino donde se recogen los valores de diferentes variables fisicoquimicas.
-
 ## Miembros del equipo
 El equipo esta integrado por: 
 * Leroy Deniz Pedreira
@@ -86,6 +84,9 @@ El script hace uso de las siguientes librerias:
 El dataset con el que se realiza la práctica se puede visualizar/descargar desde:
 
 https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+El conjunto de datos contiene muestras de vino donde se recogen los valores de diferentes variables fisicoquimicas.
+
 
 ## Recursos
 Calvo M., Subirats L., Pérez D. (2019). Introducción a la limpieza y análisis de los datos. Editorial UOC.
