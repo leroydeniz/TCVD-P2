@@ -86,3 +86,19 @@ El script hace uso de las siguientes librerias:
 El dataset con el que se realiza la práctica se puede visualizar/descargar desde:
 
 https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+## Recursos
+Calvo M., Subirats L., Pérez D. (2019). Introducción a la limpieza y análisis de los datos. Editorial UOC.
+Conover, W. J., Johnson, M. E. and Johnson M. M. (1981). A comparative study of tests for homogeneity of variances, with applications to the outer continental shelf biding data. Technometrics, 23(4), 351-361.
+Fligner, M.A. and Killeen, T.J. (1976). Distribution-free two-sample tests for scale. ‘Journal of the American Statistical Association.’ 71(353), 210-213.
+Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with Extreme Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369.
+Jiawei Han, Micheine Kamber, Jian Pei (2012). Data mining: concepts and techniques. Morgan Kaufmann.
+Levene, H. (1960). In Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling, I. Olkin et al. eds., Stanford University Press, pp. 278-292.
+Megan Squire (2015). Clean Data. Packt Publishing Ltd.
+OpenIntro Statistics: Fourth Edition by David Diez, Mine Çetinkaya-Rundel, Christopher Barr https://amzn.to/3vVcwa4.
+Peter Dalgaard (2008). Introductory statistics with R. Springer Science & Business Media.
+Team, D. S. (2020, 15 diciembre). ¿Qué es una Matriz de Correlación? DATA SCIENCE. Recuperado 14 de mayo de 2022, de https://datascience.eu/es/matematica-y-estadistica/que-es-una-matriz-de-correlacion/
+Tutorial de Github https://guides.github.com/activities/hello-world.
+Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
+
+## Licencia
