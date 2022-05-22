@@ -11,8 +11,8 @@ Universitat Oberta de Catalunya <br/>
     <li><a href="#Miembros-del-equipo">Miembros del equipo</a></li>
     <li><a href="#Ficheros-del-código-fuente">Ficheros del código fuente</a></li>    
     <li><a href="#Librerias">Librerias</a></li>
-    <li><a href="#Ejecución">Ejecución</a></li>
-    <li><a href="#Datos-Obtenidos">Datos obtenidos</a></li>
+    <li><a href="#Librerías-de-gráficos">Librerias de gráficos</a></li>
+    <li><a href="#Dataset">Dataset</a></li>
     <li><a href="#Video">Video</a></li>
     <li><a href="#Recursos">Recursos</a></li>
     <li><a href="#Licencia">Licencia</a></li>
