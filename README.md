@@ -61,11 +61,42 @@ El script hace uso de las siguientes librerias:
   ```sh
   from sklearn.preprocessing import KBinsDiscretizer # Importa librería para discretizar usando k-Means
   ```
+  * train_test_split, cross_val_score
+  ```sh
+  from sklearn.model_selection import train_test_split, cross_val_score # Importa la librería para dividir el dataset y aplicar y Cropss Validation
+  ```
+  * RandomForestClassifier
+  ```sh
+  from sklearn.ensemble import RandomForestClassifier # Importa la librería para aplicar Random Forest
+  ```
+  * accuracy_score
+  ```sh
+  from sklearn.metrics import accuracy_score # Importar la librería para calcular las métricas del clasificador
+  ```
+  * plot_confusion_matrix
+  ```sh
+  from sklearn.metrics import plot_confusion_matrix # Importar la librería para mostrar la matriz de confusión #DEPRECATED 
+  ```
   * statsmodels
   ```sh
   import statsmodels.api as sm # Permite aplicar el logaritmo a las variables de cara a normalizar
   ```
-
+  * metrics
+  ```sh
+  from sklearn import metrics # Librería para obtener métricas
+  ```
+  * confusion_matrix
+  ```sh
+  from sklearn.metrics import confusion_matrix # Importar la librería para mostrar la matriz de confusión
+  ```
+  * LogisticRegression
+  ```sh
+  from sklearn.linear_model import LogisticRegression # Librería para aplicar el modelo de regresión logística
+  ```
+  * DecisionTreeClassifier
+  ```sh
+  from sklearn.tree import DecisionTreeClassifier # árbol de decisión para clasificación
+  ```
 
 ## Librerías de gráficos
   * pyplot
