@@ -122,6 +122,8 @@ El conjunto de datos contiene muestras de vino donde se recogen los valores de d
 ## Video
 El video se ha alojado en el siguiente enlace:
 
+https://drive.google.com/file/d/1z_b0rKDUG-8lUuM36SSgXpGVvjpSr2qK/view?usp=sharing
+
 
 ## Recursos
 Calvo M., Subirats L., Pérez D. (2019). Introducción a la limpieza y análisis de los datos. Editorial UOC.
